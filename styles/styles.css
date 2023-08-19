@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+} 
+.primari-text{
+    color: #fd6e0a;
+} 
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-title{
+    color: #0B0223;
+    font-size: 2.8125rem;
+    font-weight: 700;;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: #3C354F;;
+}
